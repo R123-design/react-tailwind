@@ -1,0 +1,224 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.header {
+    width: 89rem;
+}
+
+.wd {
+    flex-basis: 78rem;
+}
+
+.wd2 {
+    flex-basis: 55rem;
+}
+
+.marg_left {
+    margin-left: -19rem;
+}
+
+.margin_head {
+    margin-left: 21.3rem;
+}
+
+.marg__left {
+    margin-left: -53rem;
+    margin-bottom: -5.45rem;
+}
+
+.margin_right {
+    margin-right: 60rem;
+}
+
+.btn_height {
+    height: 7rem;
+}
+
+.search_box {
+    width: 23rem;
+}
+
+.hero-img {
+    background-image: url(../src/assets/images/bg.png);
+    background-size: cover;
+    background-position: center;  
+}
+
+.user_content {
+    width: 24rem;
+}
+
+.user_width {
+    width: 14rem;
+}
+
+.height_content {
+    height: 13.5rem;
+}
+
+.user4_width {
+    width: 20rem;
+}
+
+.star_width {
+    width: 8rem;
+    height: 2.5rem;
+}
+
+.margin_deploy {
+    margin-top: 97px;
+    margin-left: -12px;
+}
+
+.margin_priority {
+    margin-left: 17.8rem;
+    margin-top: -2.4rem;
+}
+
+.benefit_back {
+    background-image: url(../src/components/jericka-cruz-vis3HYjSvzU-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.blurr {
+    background: rgba(gray, 0.2);
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+}
+
+.bord {
+    border-style: dashed;
+    border-width: 1;
+    border-radius: 1;
+}
+
+.tertiary_width {
+    width: 78rem;
+}
+
+
+.card_res {
+    height: 19.2rem;
+    width: 19.2rem;
+}
+
+.card_dimen {
+    width: 78rem;
+}
+
+.building_1 {
+    background-image: url(../src/components/joel-filipe-RFDP7_80v5A-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.building_2 {
+    background-image: url(../src/components/matt-reames-U6WuKgCYbKE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.building_3 {
+    background-image: url(../src/components/echo-grid-VwxbVvm8sRA-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.margin_card {
+    margin-left: 24rem;
+}
+
+.margin_card-1 {
+    margin-left: 20rem;
+}
+
+.margin_top {
+    margin-top: 25rem;
+}
+
+.card_cont {
+    height: 85vh;
+}
+
+.card_cont-2 {
+    width: 127.2rem;
+}
+
+.benefit_width {
+    width: 127.2rem;
+}
+
+.benefitCont_width {
+    width: 57.6rem;
+}
+
+.marg_benefit {
+    margin-left: 58rem;
+}
+
+.marg_benefit2 {
+    margin-left: 53rem;
+}
+
+.benefit_image {
+    width: 19.2rem;
+    height: 19.2rem;
+}
+
+.benefit_res {
+    margin-right: 32rem;
+    margin-top: -17rem;
+}
+
+.benefit_res-2 {
+    margin-right: 35.7rem;
+    margin-top: -3.7rem;
+}
+
+.benefit_res-3 {
+    margin-right: -50rem;
+    margin-top: -4.3rem;
+}
+
+.benefit_res-4 {
+    margin-top: 8.3rem;
+    margin-left: 47rem;
+}
+
+.benefit_content {
+    width: 53rem;
+    margin-top: 4.9rem;
+    margin-left: 10rem;
+}
+
+.w-72 {
+    width: 18rem;
+}
+
+.w-74 {
+    width: 19rem;
+}
+
+.benefit_btn {
+    width: 20rem;
+    height: 6rem;
+}
+
+.benefit_btn-cont {
+    width: 17rem;
+}
+/* .header2_img {
+    background-image: url(../src/components/marjanblan-FlpApmWxbd0-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
